@@ -413,8 +413,8 @@ For commercial licensing inquiries, contact: licensing@smartcoresolution.com
 ### Project Information
 - **Organization**: SmartCoreSolution.inc
 - **Project**: ADReSS Dementia Detection System
-- **Commercial Licensing**: licensing@smartcoresolution.com
-- **Technical Support**: support@smartcoresolution.com
+- **Commercial Licensing**: jangck11@smartcoresolution.com
+- **Technical Support**: jangck11@smartcoresolution.com
 - **Website**: [www.smartcoresolution.com](https://www.smartcoresolution.com)
 
 ### Development Team
@@ -431,3 +431,4 @@ For commercial licensing inquiries, contact: licensing@smartcoresolution.com
 ---
 
 ⭐ **Star this repository if you find it helpful!** ⭐
+
