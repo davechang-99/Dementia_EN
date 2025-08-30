@@ -446,7 +446,7 @@ This project is licensed under SmartCoreSolution.inc Proprietary License - see t
 - **Attribution**: Academic use must acknowledge SmartCoreSolution.inc
 - **Restrictions**: No distribution, modification, or commercial deployment without permission
 
-For commercial licensing inquiries, contact: licensing@smartcoresolution.com
+For commercial licensing inquiries, contact: jangck11@smartcoresolution.com
 
 ## 📞 Contact
 
@@ -460,7 +460,7 @@ For commercial licensing inquiries, contact: licensing@smartcoresolution.com
 ### Development Team
 - **Lead Researcher**: KJ, Dave, Chang
 - **Email**: jangck11@smartcoresolution.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
 
 ## 🙏 Acknowledgments
 
